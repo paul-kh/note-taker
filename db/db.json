@@ -1,0 +1,1 @@
+[{"id":2,"title":"Sorting array of object","text":"This is about sorting ASC or DSC by object key. For example: objA = [{id: 1, name: \"John\"}, {id: 2, name: \"Paul\"}]. How to sort DSC by objA.id ???"},{"id":1,"title":"Array.filter(obj =>{..})","text":"It return a new array with  condition met in the call back function"}]
